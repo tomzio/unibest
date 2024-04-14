@@ -50,5 +50,6 @@ module.exports = {
     'comment-no-empty': null,
     'scss/comment-no-empty': null,
     'no-duplicate-selectors': null,
+    'selector-class-pattern': '^([a-z][a-z0-9]*)[a-z0-9_-]*$',
   },
 }
